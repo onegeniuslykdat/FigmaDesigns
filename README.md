@@ -1,2 +1,2 @@
-# FigmaDesigns
+# Figma Designs
 Link to Figma designs
